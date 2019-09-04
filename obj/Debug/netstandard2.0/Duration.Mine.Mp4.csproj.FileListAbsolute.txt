@@ -1,0 +1,9 @@
+E:\ground\MyTest\Duration.Mine.Mp4\bin\Debug\netstandard2.0\Duration.Mine.Mp4.deps.json
+E:\ground\MyTest\Duration.Mine.Mp4\bin\Debug\netstandard2.0\Duration.Mine.Mp4.dll
+E:\ground\MyTest\Duration.Mine.Mp4\bin\Debug\netstandard2.0\Duration.Mine.Mp4.pdb
+E:\ground\MyTest\Duration.Mine.Mp4\obj\Debug\netstandard2.0\Duration.Mine.Mp4.csprojAssemblyReference.cache
+E:\ground\MyTest\Duration.Mine.Mp4\obj\Debug\netstandard2.0\Duration.Mine.Mp4.csproj.CoreCompileInputs.cache
+E:\ground\MyTest\Duration.Mine.Mp4\obj\Debug\netstandard2.0\Duration.Mine.Mp4.AssemblyInfoInputs.cache
+E:\ground\MyTest\Duration.Mine.Mp4\obj\Debug\netstandard2.0\Duration.Mine.Mp4.AssemblyInfo.cs
+E:\ground\MyTest\Duration.Mine.Mp4\obj\Debug\netstandard2.0\Duration.Mine.Mp4.dll
+E:\ground\MyTest\Duration.Mine.Mp4\obj\Debug\netstandard2.0\Duration.Mine.Mp4.pdb
